@@ -8,7 +8,7 @@ Install the project using this command
 npm install
 ```
 
-First, run the development server:
+Run the development server:
 
 ```bash
 npm run dev
